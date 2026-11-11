@@ -1,4 +1,4 @@
-# Task 23: Duplicate Data Removal using Pandas
+# Duplicate Data Removal using Pandas
 
 ## Overview
 
